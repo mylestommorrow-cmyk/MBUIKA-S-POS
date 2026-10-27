@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "MBUIKAS GROCERY - POS & Retail System",
+  "short_name": "MbuikasPOS",
+  "description": "Offline-first Point of Sale, inventory FEFO perishables tracking, M-Pesa integration, and profit analytics for grocery retail in Kenya.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

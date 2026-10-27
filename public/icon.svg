@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#15803d"/>
+  <path d="M120 180 L392 180 L360 410 L152 410 Z" fill="#ffffff" opacity="0.95"/>
+  <path d="M190 180 C190 120 322 120 322 180" stroke="#ffffff" stroke-width="28" stroke-linecap="round" fill="none"/>
+  <!-- Leaf accent -->
+  <path d="M256 220 C220 250 210 320 256 350 C302 320 292 250 256 220 Z" fill="#15803d"/>
+  <path d="M256 250 L256 340" stroke="#86efac" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "MBUIKAS GROCERY - POS & Retail Management System",
+  "description": "Production-grade offline-first Point of Sale, inventory FEFO perishables tracking, M-Pesa integration, mkopo debt book, and daily/weekly/monthly profit analytics for grocery retail in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
